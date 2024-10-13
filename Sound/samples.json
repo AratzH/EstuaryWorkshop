@@ -1,0 +1,17 @@
+[ 
+  { "url":"Vox_Hi:01","type":"audio","bank":"Vox_Hi","n":0},
+  { "url":"Vox_Hi:02","type":"audio","bank":"Vox_Hi","n":1},
+  { "url":"Vox_Hi:03","type":"audio","bank":"Vox_Hi","n":2},
+  { "url":"Vox_Hi:04","type":"audio","bank":"Vox_Hi","n":3},
+  { "url":"Vox_Hi:05","type":"audio","bank":"Vox_Hi","n":4},
+  { "url":"Vox_Hi:06","type":"audio","bank":"Vox_Hi","n":5},
+  { "url":"Vox_Hi:07","type":"audio","bank":"Vox_Hi","n":6},
+  { "url":"Vox_Hi:08","type":"audio","bank":"Vox_Hi","n":7},
+  { "url":"Vox_Hi:09","type":"audio","bank":"Vox_Hi","n":8},
+  { "url":"Vox_Hi:10","type":"audio","bank":"Vox_Hi","n":9},
+  { "url":"Vox_Hi:11","type":"audio","bank":"Vox_Hi","n":10},
+  { "url":"Vox_Hi:12","type":"audio","bank":"Vox_Hi","n":11},
+  { "url":"Vox_Hi:13","type":"audio","bank":"Vox_Hi","n":12},
+  { "url":"Vox_Hi:14","type":"audio","bank":"Vox_Hi","n":13},
+  { "url":"Vox_Hi:15","type":"audio","bank":"Vox_Hi","n":14}  
+]
